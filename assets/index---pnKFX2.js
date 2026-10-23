@@ -47,11 +47,14 @@ var a0_0xfa04c6=a0_0x5d15;(function(_0x19e6c4,_0x310d26){var _0x1f1860=a0_0x5d15
             (0x0,A["jsx"])("div",{"style":{"flex":1,"height":"1.5px","background":"linear-gradient(90deg, #ffffff, #ffb6c1, transparent)"}})
           ]}),
 
-          // Couple 2 in Hero
+          // Couple 2 in Hero (Ayman with prominent capital A)
           (0x0,A["jsxs"])("div",{"style":{"lineHeight":"1.15"},"children":[
             (0x0,A["jsx"])("h1",{"className":"hero-names-cursive","style":{"fontSize":"2.35rem","margin":"0","display":"block","whiteSpace":"nowrap"},"children":"Sufiyan"}),
             (0x0,A["jsx"])("span",{"className":"hero-ampersand","style":{"fontSize":"1.7rem","margin":"0","lineHeight":"1.1"},"children":"&"}),
-            (0x0,A["jsx"])("h1",{"className":"hero-names-cursive","style":{"fontSize":"2.35rem","margin":"0","display":"block","whiteSpace":"nowrap"},"children":"Ayman"})
+            (0x0,A["jsxs"])("h1",{"className":"hero-names-cursive","style":{"fontSize":"2.35rem","margin":"0","display":"block","whiteSpace":"nowrap"},"children":[
+              (0x0,A["jsx"])("span",{"style":{"fontFamily":"'Pinyon Script', cursive","fontSize":"1.22em","verticalAlign":"-0.05em"},"children":"A"}),
+              "yman"
+            ]})
           ]})
         ]}),
         (0x0,A["jsx"])("img",{"src":Nt,"alt":"Ring","className":"ring-image"})
@@ -71,12 +74,12 @@ var a0_0xfa04c6=a0_0x5d15;(function(_0x19e6c4,_0x310d26){var _0x1f1860=a0_0x5d15
       (0x0,A["jsx"])("h2",{"style":{"fontFamily":"'Great Vibes', 'Alex Brush', cursive","fontSize":"3.1rem","color":"#33252a","margin":"6px 0 4px 0","fontWeight":"normal"},"children":"Nikkah Invitation"}),
       (0x0,A["jsx"])("p",{"style":{"fontFamily":"'Montserrat', sans-serif","fontSize":"0.72rem","letterSpacing":"2.5px","color":"#c43360","fontWeight":"700","textTransform":"uppercase","marginBottom":"28px"},"children":"TWO HEARTS ✦ ONE BLESSING ✦ TWO BEAUTIFUL JOURNEYS"}),
       
-      // Couple 1 Card
+      // Couple 1 Card (Late Mr. Rafik Abdul Gani Palsani & Mr. Affan Yakub Sunasara)
       (0x0,A["jsxs"])("div",{"className":"bride-details-card","style":{"background":"#ffffff","border":"1.5px solid #f3b6c3","borderRadius":"18px","padding":"24px 20px","marginBottom":"0px","boxShadow":"0 8px 30px rgba(229, 160, 174, 0.14)"},"children":[
         (0x0,A["jsx"])("span",{"style":{"fontSize":"0.74rem","letterSpacing":"3px","textTransform":"uppercase","color":"#c43360","fontWeight":"700","display":"block","marginBottom":"10px"},"children":"✦ FIRST COUPLE ✦"}),
         (0x0,A["jsx"])("h3",{"style":{"fontFamily":"'Great Vibes', 'Alex Brush', cursive","fontSize":"2.75rem","color":"#33252a","margin":"0 0 2px 0","fontWeight":"normal"},"children":"Mohammed Shafee"}),
         (0x0,A["jsx"])("p",{"style":{"margin":"4px 0 0 0","fontSize":"0.78rem","color":"#777","textTransform":"uppercase","letterSpacing":"1.5px","fontWeight":"600"},"children":"Son of"}),
-        (0x0,A["jsx"])("p",{"style":{"margin":"3px 0 14px 0","fontSize":"1.05rem","color":"#33252a","fontWeight":"700"},"children":"Mr. Late Rafik Abdul Gani Palsani"}),
+        (0x0,A["jsx"])("p",{"style":{"margin":"3px 0 14px 0","fontSize":"1.05rem","color":"#33252a","fontWeight":"700"},"children":"Late Mr. Rafik Abdul Gani Palsani"}),
         (0x0,A["jsxs"])("div",{"style":{"display":"flex","alignItems":"center","justifyContent":"center","gap":"12px","margin":"12px 0"},"children":[
           (0x0,A["jsx"])("div",{"style":{"width":"45px","height":"1px","background":"#f3b6c3"}}),
           (0x0,A["jsx"])("span",{"style":{"fontSize":"1.3rem","color":"#e5a0ae"},"children":"♡"}),
@@ -84,7 +87,7 @@ var a0_0xfa04c6=a0_0x5d15;(function(_0x19e6c4,_0x310d26){var _0x1f1860=a0_0x5d15
         ]}),
         (0x0,A["jsx"])("h3",{"style":{"fontFamily":"'Great Vibes', 'Alex Brush', cursive","fontSize":"2.75rem","color":"#33252a","margin":"0 0 2px 0","fontWeight":"normal"},"children":"Fatima"}),
         (0x0,A["jsx"])("p",{"style":{"margin":"4px 0 0 0","fontSize":"0.78rem","color":"#777","textTransform":"uppercase","letterSpacing":"1.5px","fontWeight":"600"},"children":"Daughter of"}),
-        (0x0,A["jsx"])("p",{"style":{"margin":"3px 0 4px 0","fontSize":"1.05rem","color":"#33252a","fontWeight":"700"},"children":"Mr. Affan Sunasra"})
+        (0x0,A["jsx"])("p",{"style":{"margin":"3px 0 4px 0","fontSize":"1.05rem","color":"#33252a","fontWeight":"700"},"children":"Mr. Affan Yakub Sunasara"})
       ]}),
 
       // SIGNIFICANT DIFFERENTIATING ELEMENT BETWEEN COUPLES IN DETAILS SECTION
@@ -109,20 +112,23 @@ var a0_0xfa04c6=a0_0x5d15;(function(_0x19e6c4,_0x310d26){var _0x1f1860=a0_0x5d15
         ]})
       ]}),
 
-      // Couple 2 Card
+      // Couple 2 Card (Mr. Nazim Hanif Palsani & Mr. Juned Rehmatullah Dhaga)
       (0x0,A["jsxs"])("div",{"className":"groom-details-card","style":{"background":"#ffffff","border":"1.5px solid #f3b6c3","borderRadius":"18px","padding":"24px 20px","marginBottom":"35px","boxShadow":"0 8px 30px rgba(229, 160, 174, 0.14)"},"children":[
         (0x0,A["jsx"])("span",{"style":{"fontSize":"0.74rem","letterSpacing":"3px","textTransform":"uppercase","color":"#c43360","fontWeight":"700","display":"block","marginBottom":"10px"},"children":"✦ SECOND COUPLE ✦"}),
         (0x0,A["jsx"])("h3",{"style":{"fontFamily":"'Great Vibes', 'Alex Brush', cursive","fontSize":"2.75rem","color":"#33252a","margin":"0 0 2px 0","fontWeight":"normal"},"children":"Sufiyan"}),
         (0x0,A["jsx"])("p",{"style":{"margin":"4px 0 0 0","fontSize":"0.78rem","color":"#777","textTransform":"uppercase","letterSpacing":"1.5px","fontWeight":"600"},"children":"Son of"}),
-        (0x0,A["jsx"])("p",{"style":{"margin":"3px 0 14px 0","fontSize":"1.05rem","color":"#33252a","fontWeight":"700"},"children":"Mr. Nazim Palsani"}),
+        (0x0,A["jsx"])("p",{"style":{"margin":"3px 0 14px 0","fontSize":"1.05rem","color":"#33252a","fontWeight":"700"},"children":"Mr. Nazim Hanif Palsani"}),
         (0x0,A["jsxs"])("div",{"style":{"display":"flex","alignItems":"center","justifyContent":"center","gap":"12px","margin":"12px 0"},"children":[
           (0x0,A["jsx"])("div",{"style":{"width":"45px","height":"1px","background":"#f3b6c3"}}),
           (0x0,A["jsx"])("span",{"style":{"fontSize":"1.3rem","color":"#e5a0ae"},"children":"♡"}),
           (0x0,A["jsx"])("div",{"style":{"width":"45px","height":"1px","background":"#f3b6c3"}})
         ]}),
-        (0x0,A["jsx"])("h3",{"style":{"fontFamily":"'Great Vibes', 'Alex Brush', cursive","fontSize":"2.75rem","color":"#33252a","margin":"0 0 2px 0","fontWeight":"normal"},"children":"Ayman"}),
+        (0x0,A["jsxs"])("h3",{"style":{"fontFamily":"'Great Vibes', 'Alex Brush', cursive","fontSize":"2.75rem","color":"#33252a","margin":"0 0 2px 0","fontWeight":"normal"},"children":[
+          (0x0,A["jsx"])("span",{"style":{"fontFamily":"'Pinyon Script', cursive","fontSize":"1.22em","verticalAlign":"-0.05em"},"children":"A"}),
+          "yman"
+        ]}),
         (0x0,A["jsx"])("p",{"style":{"margin":"4px 0 0 0","fontSize":"0.78rem","color":"#777","textTransform":"uppercase","letterSpacing":"1.5px","fontWeight":"600"},"children":"Daughter of"}),
-        (0x0,A["jsx"])("p",{"style":{"margin":"3px 0 4px 0","fontSize":"1.05rem","color":"#33252a","fontWeight":"700"},"children":"Mr. Altaf Dhaga"})
+        (0x0,A["jsx"])("p",{"style":{"margin":"3px 0 4px 0","fontSize":"1.05rem","color":"#33252a","fontWeight":"700"},"children":"Mr. Juned Rehmatullah Dhaga"})
       ]}),
 
       // Hadith Quote Card
@@ -239,6 +245,8 @@ var a0_0xfa04c6=a0_0x5d15;(function(_0x19e6c4,_0x310d26){var _0x1f1860=a0_0x5d15
         (0x0,A["jsx"])("p",{"id":"rsvpMessage","className":"rsvp-message","style":{"opacity":+!!_0x8ca5d8},"children":_0x8ca5d8})
       ]})
     }),
+
+    // COMPLIMENTS SECTION: Late Mr. Abdul Gani Palsani & Family
     (0x0,A["jsx"])("section",{"className":"compliments-section","children":
       (0x0,A["jsxs"])("div",{"className":"compliments-container scroll-animate","children":[
         (0x0,A["jsxs"])("div",{"className":"compliments-header","children":[
@@ -248,23 +256,16 @@ var a0_0xfa04c6=a0_0x5d15;(function(_0x19e6c4,_0x310d26){var _0x1f1860=a0_0x5d15
         ]}),
         (0x0,A["jsx"])("div",{"className":"comp-ornament","children":"❧"}),
         (0x0,A["jsx"])("div",{"className":"comp-family-list","children":[
-          {"name":"Mr. Late Rafik Abdul Gani Palsani Family","role":""},
-          {"name":"Mr. Nazim Palsani & Family","role":""},
-          {"name":"Mr. Affan Sunasra & Family","role":""},
-          {"name":"Mr. Altaf Dhaga & Family","role":""},
-          {"name":"Palsani, Sunasra & Dhaga Families","role":"Near & Dear"}
-        ]["map"]((_0x17cebd,_0x11e05b,_0x56e9f0)=>
-          (0x0,A["jsxs"])("div",{"className":"comp-member","children":[
-            (0x0,A["jsx"])("p",{"className":"comp-name","style":{"fontWeight":"600"},"children":_0x17cebd["name"]}),
-            _0x17cebd["role"]&&(0x0,A["jsx"])("p",{"className":"comp-role","children":_0x17cebd["role"]}),
-            _0x11e05b<_0x56e9f0["length"]-0x1&&(0x0,A["jsx"])("div",{"className":"comp-divider"})
-          ]},_0x11e05b)
-        )}),
+          (0x0,A["jsx"])("div",{"className":"comp-member","children":[
+            (0x0,A["jsx"])("p",{"className":"comp-name","style":{"fontWeight":"700","fontSize":"1.28rem","color":"#c43360","margin":"6px 0 10px 0","letterSpacing":"0.5px"},"children":"Late Mr. Abdul Gani Palsani & Family"})
+          ]})
+        ]}),
         (0x0,A["jsx"])("div",{"className":"comp-stars","children":"✦ Near & Dear ✦"})
       ]})
     }),
+
     (0x0,A["jsx"])("section",{"className":"thankyou-section","children":
-      (0x0,A["jsx"])("div",{"className":"thankyou-container scroll-animate","children":
+      (0x0,A["jsx"])("div",{"className":"thankyou-container scroll-animate","children":[
         (0x0,A["jsxs"])("div",{"className":"thankyou-card-wrapper","children":[
           (0x0,A["jsx"])("img",{"src":Pt,"alt":"Thank You","className":"thankyou-img"}),
           (0x0,A["jsxs"])("div",{"className":"thankyou-card-text","children":[
@@ -272,12 +273,12 @@ var a0_0xfa04c6=a0_0x5d15;(function(_0x19e6c4,_0x310d26){var _0x1f1860=a0_0x5d15
             (0x0,A["jsx"])("span",{"className":"ty-sub","children":"For your blessings & love"})
           ]})
         ]})
-      })
+      ]})
     })
   ]}),
   (0x0,A["jsxs"])("div",{"style":{"backgroundColor":"#0d0d0d","padding":"18px","textAlign":"center"},"children":[
     (0x0,A["jsxs"])("div",{"style":{"display":"flex","alignItems":"center","justifyContent":"center","gap":"14px"},"children":[
-      (0x0,A["jsx"])("div",{"style":{"flex":0x1,"height":"1px","background":"linear-gradient(90deg, transparent, #e5a0ae)"}}),
+      (0x0,A["jsx"])("div",{"style":{"flex":1,"height":"1px","background":"linear-gradient(90deg, transparent, #e5a0ae)"}}),
       (0x0,A["jsxs"])("a",{"href":"https://www.instagram.com/noor.invites.nagpur/","target":"_blank","rel":"noopener noreferrer","style":{"textDecoration":"none","display":"inline-flex","alignItems":"center","gap":"8px"},"children":[
         (0x0,A["jsxs"])("svg",{"width":"14","height":"14","viewBox":"0 0 24 24","fill":"none","children":[
           (0x0,A["jsx"])("rect",{"x":"2","y":"2","width":"20","height":"20","rx":"6","stroke":"#e5a0ae","strokeWidth":"1.8"}),
@@ -286,11 +287,11 @@ var a0_0xfa04c6=a0_0x5d15;(function(_0x19e6c4,_0x310d26){var _0x1f1860=a0_0x5d15
         ]}),
         (0x0,A["jsx"])("span",{"style":{"fontFamily":"'Montserrat', sans-serif","fontSize":"0.68rem","letterSpacing":"2.5px","color":"#e5a0ae"},"children":"@noor.invites.nagpur"})
       ]}),
-      (0x0,A["jsx"])("div",{"style":{"flex":0x1,"height":"1px","background":"linear-gradient(90deg, #e5a0ae, transparent)"}})
+      (0x0,A["jsx"])("div",{"style":{"flex":1,"height":"1px","background":"linear-gradient(90deg, #e5a0ae, transparent)"}})
     ]}),
     (0x0,A["jsx"])("p",{"style":{"color":"#bbb8b8","fontSize":"0.6rem","letterSpacing":"1.5px","margin":"8px 0 0","fontFamily":"'Montserrat', sans-serif"},"children":"CONNECT FOR YOUR DIGITAL INVITATION"})
   ]}),
-  (0x0,A["jsx"])("svg",{"width":"0","height":"0","style":{"position":"absolute","width":0x0,"height":0x0},"children":
+  (0x0,A["jsx"])("svg",{"width":"0","height":"0","style":{"position":"absolute","width":0,"height":0},"children":
     (0x0,A["jsx"])("defs",{"children":
       (0x0,A["jsx"])("clipPath",{"id":"heart-clip","clipPathUnits":"objectBoundingBox","children":
         (0x0,A["jsx"])("path",{"d":"M0.5,0.21 C0.5,0.21 0.43,0.06 0.28,0.06 C0.12,0.06 0,0.2 0,0.39 C0,0.64 0.28,0.83 0.5,0.94 C0.72,0.83 1,0.64 1,0.39 C1,0.2 0.88,0.06 0.72,0.06 C0.57,0.06 0.5,0.21 0.5,0.21 Z"})
