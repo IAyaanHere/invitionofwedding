@@ -1,0 +1,10 @@
+{
+  "name": "baby-pink-invite",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Noor Invites - Baby Pink wedding invitation site",
+  "scripts": {
+    "start": "python -m http.server 8080",
+    "serve": "npx serve -l 8080 ."
+  }
+}
